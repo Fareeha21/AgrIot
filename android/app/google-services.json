@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "828346774738",
+    "project_id": "agriot-8e6c1",
+    "storage_bucket": "agriot-8e6c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828346774738:android:08436178f2e7574493690b",
+        "android_client_info": {
+          "package_name": "com.agriot.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828346774738-88ds2p89jd86dqn43n8ddhud9apf3ca5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agriot.android",
+            "certificate_hash": "e2662aa2cbcaa8d7b3341258a920932623f5877b"
+          }
+        },
+        {
+          "client_id": "828346774738-g217soce014n2r3t1l9hkbufe80e7c7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWIJsyv1QYcwPiVfzMBHPXwxefp3smvjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828346774738-g217soce014n2r3t1l9hkbufe80e7c7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828346774738:android:b090170e429a414f93690b",
+        "android_client_info": {
+          "package_name": "com.agriot.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828346774738-g217soce014n2r3t1l9hkbufe80e7c7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWIJsyv1QYcwPiVfzMBHPXwxefp3smvjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828346774738-g217soce014n2r3t1l9hkbufe80e7c7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828346774738:android:3c717556d093b5fd93690b",
+        "android_client_info": {
+          "package_name": "com.fyp.agriot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828346774738-2skdvo2l2ig01evttnktk9t7h9ed9hk2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fyp.agriot",
+            "certificate_hash": "6e81688c06e27ffb7ab781ebf9c6451d572e0af3"
+          }
+        },
+        {
+          "client_id": "828346774738-g217soce014n2r3t1l9hkbufe80e7c7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWIJsyv1QYcwPiVfzMBHPXwxefp3smvjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828346774738-g217soce014n2r3t1l9hkbufe80e7c7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
